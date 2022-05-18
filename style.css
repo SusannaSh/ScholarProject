@@ -1,0 +1,10 @@
+body{
+    background-color: bisque;
+
+}
+h1.header{
+    align-items: center;
+}
+.navigation.buttons{
+    align-items: right;
+}
